@@ -27,6 +27,10 @@
 			"url": "http://mit-license.org/"
 		}
 	],
+	"bugs": "https://github.com/tobaiasjl/jquery.loading-indicator/issues",
+  	"homepage": "http://tobaiasjl.github.io/jquery.loading-indicator/",
+	"docs": "http://tobaiasjl.github.io/jquery.loading-indicator/",
+  	"download": "https://github.com/tobaiasjl/jquery.loading-indicator/archive/master.zip",
 	"dependencies": {
 		"jquery": ">=1.4"
 	}
